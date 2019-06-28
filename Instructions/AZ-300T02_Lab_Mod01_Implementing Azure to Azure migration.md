@@ -154,7 +154,7 @@ The main tasks for this exercise are as follows:
 
 2. Wait until the replication is disabled.
 
-3. From the Azure portal, delete the Recovery Services vault.
+3. From the Azure portal, delete the Recovery Services vault and the associated resource group.
 
    > **Note**: You must ensure that the replicated item is removed first before you can delete the vault.
 
